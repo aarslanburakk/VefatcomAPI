@@ -1,0 +1,12 @@
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Domain\bin\Debug\net6.0\VefatcomAPI.Domain.deps.json
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Domain\bin\Debug\net6.0\VefatcomAPI.Domain.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Domain\bin\Debug\net6.0\VefatcomAPI.Domain.pdb
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Domain\obj\Debug\net6.0\VefatcomAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Domain\obj\Debug\net6.0\VefatcomAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Domain\obj\Debug\net6.0\VefatcomAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Domain\obj\Debug\net6.0\VefatcomAPI.Domain.AssemblyInfo.cs
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Domain\obj\Debug\net6.0\VefatcomAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Domain\obj\Debug\net6.0\VefatcomAPI.Domain.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Domain\obj\Debug\net6.0\refint\VefatcomAPI.Domain.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Domain\obj\Debug\net6.0\VefatcomAPI.Domain.pdb
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Domain\obj\Debug\net6.0\ref\VefatcomAPI.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\bin\Debug\net6.0\VefatcomAPI.Persistence.deps.json
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\bin\Debug\net6.0\VefatcomAPI.Persistence.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\bin\Debug\net6.0\VefatcomAPI.Persistence.pdb
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\bin\Debug\net6.0\VefatcomAPI.Application.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\bin\Debug\net6.0\VefatcomAPI.Domain.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\bin\Debug\net6.0\VefatcomAPI.Application.pdb
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\bin\Debug\net6.0\VefatcomAPI.Domain.pdb
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\obj\Debug\net6.0\VefatcomAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\obj\Debug\net6.0\VefatcomAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\obj\Debug\net6.0\VefatcomAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\obj\Debug\net6.0\VefatcomAPI.Persistence.AssemblyInfo.cs
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\obj\Debug\net6.0\VefatcomAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\obj\Debug\net6.0\VefatcomAPI.Persistence.csproj.CopyComplete
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\obj\Debug\net6.0\VefatcomAPI.Persistence.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\obj\Debug\net6.0\refint\VefatcomAPI.Persistence.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\obj\Debug\net6.0\VefatcomAPI.Persistence.pdb
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Persistence\obj\Debug\net6.0\ref\VefatcomAPI.Persistence.dll

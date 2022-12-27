@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VefatcomAPI.API.props" />
+</Project>

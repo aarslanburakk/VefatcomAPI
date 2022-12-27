@@ -1,0 +1,15 @@
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\bin\Debug\net6.0\VefatcomAPI.Application.deps.json
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\bin\Debug\net6.0\VefatcomAPI.Application.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\bin\Debug\net6.0\VefatcomAPI.Application.pdb
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\bin\Debug\net6.0\VefatcomAPI.Domain.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\bin\Debug\net6.0\VefatcomAPI.Domain.pdb
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\obj\Debug\net6.0\VefatcomAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\obj\Debug\net6.0\VefatcomAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\obj\Debug\net6.0\VefatcomAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\obj\Debug\net6.0\VefatcomAPI.Application.AssemblyInfo.cs
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\obj\Debug\net6.0\VefatcomAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\obj\Debug\net6.0\VefatcomAPI.Application.csproj.CopyComplete
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\obj\Debug\net6.0\VefatcomAPI.Application.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\obj\Debug\net6.0\refint\VefatcomAPI.Application.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\obj\Debug\net6.0\VefatcomAPI.Application.pdb
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Core\VefatcomAPI.Application\obj\Debug\net6.0\ref\VefatcomAPI.Application.dll

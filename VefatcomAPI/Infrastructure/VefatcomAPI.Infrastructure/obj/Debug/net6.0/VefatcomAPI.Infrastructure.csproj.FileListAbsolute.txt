@@ -1,0 +1,17 @@
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\bin\Debug\net6.0\VefatcomAPI.Infrastructure.deps.json
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\bin\Debug\net6.0\VefatcomAPI.Infrastructure.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\bin\Debug\net6.0\VefatcomAPI.Infrastructure.pdb
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\bin\Debug\net6.0\VefatcomAPI.Application.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\bin\Debug\net6.0\VefatcomAPI.Domain.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\bin\Debug\net6.0\VefatcomAPI.Application.pdb
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\bin\Debug\net6.0\VefatcomAPI.Domain.pdb
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\obj\Debug\net6.0\VefatcomAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\obj\Debug\net6.0\VefatcomAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\obj\Debug\net6.0\VefatcomAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\obj\Debug\net6.0\VefatcomAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\obj\Debug\net6.0\VefatcomAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\obj\Debug\net6.0\VefatcomAPI.Infrastructure.csproj.CopyComplete
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\obj\Debug\net6.0\VefatcomAPI.Infrastructure.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\obj\Debug\net6.0\refint\VefatcomAPI.Infrastructure.dll
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\obj\Debug\net6.0\VefatcomAPI.Infrastructure.pdb
+C:\Users\Burak Arslan\Desktop\vefatcom2\VefatcomAPI\Infrastructure\VefatcomAPI.Infrastructure\obj\Debug\net6.0\ref\VefatcomAPI.Infrastructure.dll
